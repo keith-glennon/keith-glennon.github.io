@@ -28,7 +28,7 @@ String.raw`
   </p>
 
   <p>
-    In Siegel theory, aka Double field theory, after exposing a hidden $\mathrm{SO}(D,D)$ symmetry, and reformulating the $D$-dimensional closed bosonic string in terms of a 'doubled' space-time arising from the vector representation of $\mathrm{SO}(D,D)$, the section conditions then render the doubled coordinate, half of the vector representation of $\mathrm{SO}(D,D)$, somewhat artificial.
+    In Siegel theory, aka Double field theory, after exposing a hidden $\mathrm{SO}(D,D)$ symmetry, and reformulating the $D$-dimensional closed bosonic string in terms of a 'doubled' space-time arising from the vector representation of $\mathrm{SO}(D,D)$, the section conditions then render the doubled coordinate, half of the vector representation of $\mathrm{SO}(D,D)$, somewhat trivial.
   </p>
   
   <p> 
@@ -36,7 +36,7 @@ String.raw`
   </p>
 
   <p>
-    Thus the extra coordinates appear fundamental, and an approach which does render most of the vector representation as somewhat artificial, appears needed.
+    Thus the extra coordinates appear fundamental, and an approach which does not render part of the vector representation as somewhat trivial, appears needed.
   </p>
 
   <p>
