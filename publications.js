@@ -16,7 +16,7 @@ String.raw`
    ">
 
   <h3 style="margin-top: 0; color: #1f2a44;">
-    Local symmetry and the dependence on extended spacetime
+    Local symmetry and the dependence on extended spacetime 
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
