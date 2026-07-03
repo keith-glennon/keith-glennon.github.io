@@ -2,57 +2,7 @@
 
 const publications = [
 
-String.raw`
-<a class="publication-box" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer"
-   style="
-     display: block;
-     border: 1px solid #d8cfc3;
-     background: #f8f5ef;
-     padding: 18px;
-     margin: 22px 0;
-     text-decoration: none;
-     color: #222222;
-     box-shadow: 0 3px 12px rgba(60, 45, 30, 0.08);
-   ">
 
-  <h3 style="margin-top: 0; color: #1f2a44;">
-    Local symmetry and the dependence on extended spacetime
-  </h3>
-
-  <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and P. West.
-  </p>
-
-  <p>
-    This work uses a linearized analysis to suggest an alternative to the so-called 'section conditions' of double field theory.
-  </p>
-
-  <p>
-    In Siegel theory, aka Double field theory, after exposing a hidden $\mathrm{SO}(D,D)$ symmetry, and reformulating the $D$-dimensional closed bosonic string in terms of a 'doubled' space-time arising from the vector representation of $\mathrm{SO}(D,D)$, the section conditions then render the doubled coordinate, half of the vector representation of $\mathrm{SO}(D,D)$, somewhat artificial.
-  </p>
-  
-  <p> 
-    In E-theory, the extra coordinates, living in the vector representation of $E_{11}$, appear to reflect brane degrees of freedom, and are essential in showing that a given Kac-Moody algebra is a hidden symmetry of its respective theory. 
-  </p>
-
-  <p>
-    Thus the extra coordinates appear fundamental, and an approach which does render most of the vector representation as somewhat artificial, appears needed.
-  </p>
-
-  <p>
-   This work suggests conditions on the gauge parameters in the linearization of $E_{11}$ to low levels, i.e. restrictions on the gauge parameters which generalize/unify diffeomorphisms with p-form gauge transformations, rather than conditions on the fields.
-  </p>
-        
-  <p>
-    $E_{11}$ to level 0 in the IIA node reproduces Siegel theory, and a direct linearized analysis of this case shows that gauge symmetry is manifest subject to conditions on the gauge parameters without imposing section conditions.
-  </p>
-        
-
-  <p style="color: #264f7a; font-weight: bold; margin-bottom: 0;">
-    arXiv: xxxx.xxxxx
-  </p>
-</a>
-`,
 
 String.raw`
 <a class="publication-box" href="https://arxiv.org/abs/2603.11923" target="_blank" rel="noopener noreferrer"
