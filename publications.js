@@ -3,7 +3,7 @@
 const publications = [
 
 String.raw`
-<a class="publication-box" href="https://arxiv.org/" target="_blank" rel="noopener noreferrer"
+<a class="publication-box" href="https://arxiv.org/abs/2607.01999" target="_blank" rel="noopener noreferrer"
    style="
      display: block;
      border: 1px solid #d8cfc3;
@@ -49,7 +49,7 @@ String.raw`
         
 
   <p style="color: #264f7a; font-weight: bold; margin-bottom: 0;">
-    arXiv: xxxx.xxxxx
+    arXiv: 2607.01999
   </p>
 </a>
 `,
