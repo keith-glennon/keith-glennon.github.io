@@ -20,7 +20,7 @@ String.raw`
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and P. West.
+    K. Glennon and P. West
   </p>
 
   <p>
@@ -113,7 +113,7 @@ String.raw`
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and M. Tsulaia. 
+    K. Glennon and M. Tsulaia
   </p>
 
   <p>
@@ -203,7 +203,7 @@ String.raw`
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and P. West.
+    K. Glennon and P. West
   </p>
 
   <p>
@@ -306,7 +306,7 @@ String.raw`
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and P. West.
+    K. Glennon and P. West
   </p>
 
   <p>
@@ -340,7 +340,7 @@ String.raw`
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and P. West.
+    K. Glennon and P. West
   </p>
 
   <p>
@@ -381,7 +381,7 @@ String.raw`
   </h3>
 
   <p style="color: #60422f; margin-bottom: 10px;">
-    K. Glennon and P. West.
+    K. Glennon and P. West
   </p>
 
   <p>
