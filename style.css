@@ -421,6 +421,16 @@ a {
   font-weight: bold !important;
 }
 
+a[data-light] {
+  color: #666666 !important;
+  text-decoration-color: rgba(102, 102, 102, 0.45) !important;
+}
+
+a[data-light]:hover {
+  color: #444444 !important;
+  text-decoration-color: #444444 !important;
+}
+
 
 
 /* Hover option 1: stripe stays grey, box lifts */
