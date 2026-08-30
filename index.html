@@ -42,13 +42,20 @@ window.MathJax = {
 <main class="home-layout">
 
   <div>
-    <img class="profile-photo" src="images/KGSelfie1.jpg" alt="Profile photo">
+    <p>
+  <img id="profile-photo" class="profile-photo" src="images/KGSelfie1.jpg" alt="Profile photo">
+</p>
 
-    <br><br>
+<script>
+var profilePhotos = [
+  "images/KGSelfie1.jpg",
+  "images/KGSelfie2.jpg"
+];
 
-    <!-- <img class="profile-photo" src="images/KGSelfie2.jpg" alt="Second profile photo"> -->
+var randomPhoto = profilePhotos[Math.floor(Math.random() * profilePhotos.length)];
 
-    <br><br>
+document.getElementById("profile-photo").src = randomPhoto;
+</script>
 
   <div style="text-align: center; margin-top: 10px; font-size: 0.8em;">
 
