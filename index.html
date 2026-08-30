@@ -52,11 +52,30 @@ var profilePhotos = [
   "images/KGSelfie2.jpg"
 ];
 
-var randomPhoto = profilePhotos[Math.floor(Math.random() * profilePhotos.length)];
+var currentPhoto = Math.floor(Math.random() * profilePhotos.length);
 
-document.getElementById("profile-photo").src = randomPhoto;
+document.getElementById("profile-photo").src = profilePhotos[currentPhoto];
+
+
+setInterval(function () {
+  currentPhoto = currentPhoto + 1;
+
+  if (currentPhoto >= profilePhotos.length) {
+    currentPhoto = 0;
+  }
+
+  document.getElementById("profile-photo").src = profilePhotos[currentPhoto];
+}, 30000);
 </script>
 
+
+
+
+
+
+
+
+    
   <div style="text-align: center; margin-top: 10px; font-size: 0.8em;">
 
 <div style="text-align: center; margin-top: 12px;">
