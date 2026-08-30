@@ -426,11 +426,6 @@ a[data-light] {
   text-decoration-color: rgba(102, 102, 102, 0.45) !important;
 }
 
-a[data-light]:hover {
-  color: #444444 !important;
-  text-decoration-color: #444444 !important;
-}
-
 
 
 /* Hover option 1: stripe stays grey, box lifts */
@@ -445,4 +440,15 @@ a[data-light]:hover {
   box-shadow:
     0 16px 42px rgba(0, 0, 0, 0.18),
     inset 0 1px 0 rgba(255, 255, 255, 0.85) !important;
+}
+
+
+a[data-light] {
+  color: #666666 !important;
+  text-decoration-color: rgba(102, 102, 102, 0.45) !important;
+}
+
+a[data-light]:hover {
+  color: #444444 !important;
+  text-decoration-color: #444444 !important;
 }
