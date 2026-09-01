@@ -49,7 +49,7 @@ String.raw`
         
 
   <p style="color: #264f7a; font-weight: bold; margin-bottom: 0;">
-   <a href="https://doi.org/10.1142/S0217751X26501642">Int.J.Mod.Phys.A S0217751X26501642</a> <br>
+   <a href="https://doi.org/10.1142/S0217751X26501642">Int.J.Mod.Phys.A https://doi.org/10.1142/S0217751X26501642</a> <br>
     arXiv: 2607.01999 [hep-th]
   </p>
 </a>
