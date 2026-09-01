@@ -47,9 +47,8 @@ String.raw`
     $E_{11}$ to level 0 in the IIA node reproduces Siegel theory, and a direct linearized analysis of this case shows that gauge symmetry is manifest subject to conditions on the gauge parameters without imposing section conditions.
   </p>
         
-
   <p style="color: #264f7a; font-weight: bold; margin-bottom: 0;">
-   <a href="https://doi.org/10.1142/S0217751X26501642">Int.J.Mod.Phys.A https://doi.org/10.1142/S0217751X26501642</a> <br>
+   Int.J.Mod.Phys.A https://doi.org/10.1142/S0217751X26501642 <br>
     arXiv: 2607.01999 [hep-th]
   </p>
 </a>
